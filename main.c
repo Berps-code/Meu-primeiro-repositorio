@@ -6,4 +6,7 @@ int main(){
     return 0;
 
     //tá podendo??
+    printf("aiaiaiaiaiaiaiai");
+
+    int x = 10;
 }
